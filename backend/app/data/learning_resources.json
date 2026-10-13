@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "skill": "Python",
+      "title": "The Python Tutorial",
+      "provider": "Python Software Foundation",
+      "url": "https://docs.python.org/3/tutorial/",
+      "resource_type": "official documentation"
+    },
+    {
+      "skill": "Pandas",
+      "title": "Getting started tutorials",
+      "provider": "pandas",
+      "url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/",
+      "resource_type": "official documentation"
+    },
+    {
+      "skill": "NumPy",
+      "title": "NumPy: absolute beginners",
+      "provider": "NumPy",
+      "url": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+      "resource_type": "official documentation"
+    },
+    {
+      "skill": "scikit-learn",
+      "title": "scikit-learn user guide",
+      "provider": "scikit-learn",
+      "url": "https://scikit-learn.org/stable/",
+      "resource_type": "official documentation"
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Intro to Machine Learning",
+      "provider": "Kaggle Learn",
+      "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+      "resource_type": "interactive course"
+    },
+    {
+      "skill": "Data Visualization",
+      "title": "Plotly Python documentation",
+      "provider": "Plotly",
+      "url": "https://plotly.com/python/",
+      "resource_type": "official documentation"
+    },
+    {
+      "skill": "Power BI",
+      "title": "Training for Power BI",
+      "provider": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi",
+      "resource_type": "official training"
+    },
+    {
+      "skill": "Tableau",
+      "title": "Tableau training",
+      "provider": "Tableau",
+      "url": "https://www.tableau.com/learn/training",
+      "resource_type": "official training"
+    },
+    {
+      "skill": "SQL",
+      "title": "SQLBolt interactive lessons",
+      "provider": "SQLBolt",
+      "url": "https://sqlbolt.com/",
+      "resource_type": "interactive lessons"
+    }
+  ]
+}

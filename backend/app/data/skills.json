@@ -1,0 +1,64 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "technical",
+      "aliases": ["python3"]
+    },
+    {
+      "name": "SQL",
+      "category": "technical",
+      "aliases": ["structured query language"]
+    },
+    {
+      "name": "Excel",
+      "category": "technical",
+      "aliases": ["microsoft excel", "ms excel"]
+    },
+    {
+      "name": "Power BI",
+      "category": "technical",
+      "aliases": ["powerbi", "microsoft power bi"]
+    },
+    {
+      "name": "Tableau",
+      "category": "technical",
+      "aliases": ["tableau desktop"]
+    },
+    {
+      "name": "Statistics",
+      "category": "technical",
+      "aliases": ["statistical analysis"]
+    },
+    {
+      "name": "Machine Learning",
+      "category": "technical",
+      "aliases": ["machine-learning"]
+    },
+    {
+      "name": "Pandas",
+      "category": "technical",
+      "aliases": ["python pandas"]
+    },
+    {
+      "name": "NumPy",
+      "category": "technical",
+      "aliases": ["numpy"]
+    },
+    {
+      "name": "scikit-learn",
+      "category": "technical",
+      "aliases": ["scikit learn", "sklearn"]
+    },
+    {
+      "name": "Data Visualization",
+      "category": "technical",
+      "aliases": ["data visualisation"]
+    },
+    {
+      "name": "Communication",
+      "category": "soft",
+      "aliases": ["communication skills", "verbal communication"]
+    }
+  ]
+}

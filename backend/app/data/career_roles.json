@@ -1,0 +1,59 @@
+{
+  "roles": [
+    {
+      "id": "data-analyst",
+      "name": "Data Analyst",
+      "description": "Prepare, query, interpret, and communicate data to support decisions.",
+      "interests": ["data", "business", "research", "problem solving"],
+      "skills": [
+        {"name": "SQL", "weight": 3, "minimum_level": "intermediate"},
+        {"name": "Excel", "weight": 2, "minimum_level": "intermediate"},
+        {"name": "Statistics", "weight": 2, "minimum_level": "beginner"},
+        {"name": "Python", "weight": 2, "minimum_level": "beginner"},
+        {"name": "Data Visualization", "weight": 2, "minimum_level": "beginner"},
+        {"name": "Communication", "weight": 2, "minimum_level": "intermediate"}
+      ]
+    },
+    {
+      "id": "business-intelligence-analyst",
+      "name": "Business Intelligence Analyst",
+      "description": "Build reports and dashboards that help teams monitor business performance.",
+      "interests": ["business", "communication", "visualization", "decision support"],
+      "skills": [
+        {"name": "SQL", "weight": 3, "minimum_level": "intermediate"},
+        {"name": "Power BI", "weight": 3, "minimum_level": "intermediate"},
+        {"name": "Excel", "weight": 2, "minimum_level": "intermediate"},
+        {"name": "Data Visualization", "weight": 2, "minimum_level": "intermediate"},
+        {"name": "Statistics", "weight": 1, "minimum_level": "beginner"},
+        {"name": "Communication", "weight": 2, "minimum_level": "intermediate"}
+      ]
+    },
+    {
+      "id": "data-scientist",
+      "name": "Data Scientist",
+      "description": "Use statistics, programming, and machine learning to explore and model data.",
+      "interests": ["statistics", "research", "programming", "machine learning"],
+      "skills": [
+        {"name": "Python", "weight": 3, "minimum_level": "intermediate"},
+        {"name": "Statistics", "weight": 3, "minimum_level": "intermediate"},
+        {"name": "Machine Learning", "weight": 3, "minimum_level": "beginner"},
+        {"name": "SQL", "weight": 2, "minimum_level": "beginner"},
+        {"name": "Pandas", "weight": 2, "minimum_level": "intermediate"},
+        {"name": "scikit-learn", "weight": 2, "minimum_level": "beginner"},
+        {"name": "Communication", "weight": 1, "minimum_level": "intermediate"}
+      ]
+    },
+    {
+      "id": "data-engineer",
+      "name": "Data Engineer",
+      "description": "Build reliable systems and pipelines for collecting and preparing data.",
+      "interests": ["programming", "systems", "data platforms", "problem solving"],
+      "skills": [
+        {"name": "Python", "weight": 3, "minimum_level": "intermediate"},
+        {"name": "SQL", "weight": 3, "minimum_level": "intermediate"},
+        {"name": "NumPy", "weight": 1, "minimum_level": "beginner"},
+        {"name": "Communication", "weight": 1, "minimum_level": "beginner"}
+      ]
+    }
+  ]
+}
